@@ -1,6 +1,6 @@
 # Backroads App
 
-[Working Application - Deployed](https://zanjani-first-reactapp.netlify.app/))
+[Working Application - Deployed](https://zanjani-first-reactapp.netlify.app/)
 
 - remove in src
 
